@@ -105,17 +105,20 @@ textarea:focus {
 }
 
 button {
-    background: #00b894;
+    background: var(--text-color);
     color: white;
     padding: 12px 24px;
     border-radius: 8px;
     font-weight: 600;
-    transition: transform 0.2s, background 0.2s;
+    border: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 button:hover {
-    background: #00a884;
+    background: #000000;
     transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .success-message {
