@@ -1,7 +1,7 @@
 # Web Page with Forms
 
 ## Description
-This project was created as part of a task given by the **Google Developer Group (GDG) Club** of our college. It includes a responsive web page with multiple forms for user interaction.
+This project was created as part of a task assigned by the **Google Developer Group (GDG) Club** of our college. It features a responsive and modern web page with multiple forms for user interaction. The design and functionality were made more polished and professional with the help of **Cursor AI**.
 
 ## Features
 - **Contact Form**: Collects name, email, and message from users.
